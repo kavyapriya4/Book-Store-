@@ -34,7 +34,7 @@ function Home() {
         color: "white"
       }}>
         <h1 style={{ fontSize: "40px", marginBottom: "20px", letterSpacing: "1px" }}>
-          Welcome to My Online Bookstore
+          Welcome to My Online Bookstore !!!
         </h1>
         <p style={{
           fontSize: "18px",
